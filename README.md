@@ -58,3 +58,19 @@ High revenue does not guarantee profitability.
 ## Takeaway
 
 This project demonstrates how data analysis can uncover hidden inefficiencies in pricing strategies and product performance, enabling more informed business decisions.
+
+## Project Structure
+
+- `superstore_analysis.xlsx`
+  - Executive Summary
+  - Discount vs Profit Analysis
+  - Regional Performance
+  - Segment Analysis
+  - Sub-Category Profitability
+  - Sub-Category Margin Analysis
+  - Revenue by Sub-Category
+
+- `images/`
+  - `Discounts_vs_Margins.jpg`
+  - `Sub_category_Margin_Analysis.jpg`
+  - `Revenue_Sub_Category.jpg`
