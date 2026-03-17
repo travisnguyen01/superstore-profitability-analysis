@@ -24,7 +24,7 @@ The goal was to move beyond revenue metrics and uncover factors that impact prof
 - **SQL** – data aggregation and analysis 
 - **Excel** – data cleaning, PivotTables, and visualization
 - **Data Analysis** – profitability analysis, trend identification, and business insights
-- 
+  
 # Project Structure
 - `superstore_analysis.xlsx`  
   - Executive Summary  
