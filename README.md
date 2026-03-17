@@ -35,10 +35,9 @@ The goal was to move beyond revenue metrics and uncover factors that impact prof
   - Sub-Category Margin Analysis
   - Revenue by Sub-Category
 
-### Key Visualizations
+## Key Visualizations
 
 ### Discount vs Profit
-
 ![Discount vs Profit](./images/Discounts_vs_Margins.jpg)
 
 Profitability turns negative above ~22% discount.
@@ -46,16 +45,14 @@ Profitability turns negative above ~22% discount.
 ---
 
 ### Sub-Category Profitability
-
-![Subcategory Profit](./images/Discounts_vs_Margins.jpg)
+![Sub-Category Profitability](./images/Sub_category_Margin_Analysis.jpg)
 
 Tables and Bookcases generate losses despite high sales.
 
 ---
 
-### Revenue vs Profit
-
-![Revenue](./images/Discounts_vs_Margins.jpg)
+### Revenue by Sub-Category
+![Revenue by Sub-Category](./images/Revenue_Sub_Category.jpg)
 
 High revenue does not guarantee profitability.
 ## Takeaway
