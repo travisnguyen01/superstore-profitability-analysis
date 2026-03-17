@@ -39,7 +39,7 @@ The goal was to move beyond revenue metrics and uncover factors that impact prof
 
 ### Discount vs Profit
 
-![Discount vs Profit](./Discounts_vs_Margins.jpg)
+![Discount vs Profit](./images/Discounts_vs_Margins.jpg)
 
 Profitability turns negative above ~22% discount.
 
@@ -47,7 +47,7 @@ Profitability turns negative above ~22% discount.
 
 ### Sub-Category Profitability
 
-![Subcategory Profit](./Sub_category_Margin_Analysis.jpg)
+![Subcategory Profit](./images/Discounts_vs_Margins.jpg)
 
 Tables and Bookcases generate losses despite high sales.
 
@@ -55,7 +55,7 @@ Tables and Bookcases generate losses despite high sales.
 
 ### Revenue vs Profit
 
-![Revenue](./Revenue_Sub_Category.jpg)
+![Revenue](./images/Discounts_vs_Margins.jpg)
 
 High revenue does not guarantee profitability.
 ## Takeaway
