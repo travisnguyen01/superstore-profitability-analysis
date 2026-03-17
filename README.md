@@ -35,12 +35,29 @@ The goal was to move beyond revenue metrics and uncover factors that impact prof
   - Sub-Category Margin Analysis
   - Revenue by Sub-Category
 
-# Key Visualization
+### Key Visualizations
 
-The analysis depicts a strong negative relationship between discount levels and profit margins, demonstrating that aggressive discounting significantly reduces profitability.
+### Discount vs Profit
+
+![Discount vs Profit](./Discounts_vs_Margins.jpg)
+
+Profitability turns negative above ~22% discount.
 
 ---
 
+### Sub-Category Profitability
+
+![Subcategory Profit](./Sub_category_Margin_Analysis.jpg)
+
+Tables and Bookcases generate losses despite high sales.
+
+---
+
+### Revenue vs Profit
+
+![Revenue](./Revenue_Sub_Category.jpg)
+
+High revenue does not guarantee profitability.
 ## Takeaway
 
 This project demonstrates how data analysis can uncover hidden inefficiencies in pricing strategies and product performance, enabling more informed business decisions.
