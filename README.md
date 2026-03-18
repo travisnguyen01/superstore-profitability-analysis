@@ -7,15 +7,18 @@ The goal was to move beyond revenue metrics and uncover factors that impact prof
 
 ## Key Insights
 
-- Profitability declines sharply as discounts increase, with margins turning negative above ~22%.
-- Several high-revenue product categories (e.g., Tables, Bookcases) generate negative profit.
+- Profitability generally declines as discounts increase; margins approach 0% around ~22% on average, though the relationship varies by product category.
+- Several high-revenue product categories (e.g., Tables, Bookcases) generate negative profit, highlighting inefficiencies in pricing or cost structure.
 - Regional performance is volatile, with East and West showing more stable margins than Central and South.
 - Consumer segment in the Central region shows the lowest profitability across segments.
+- A moderate R² (~0.27) indicates that discounting alone does not fully explain profitability, highlighting the importance of category-specific factors.
+- The impact of discounting varies by category — while Tables and Bookcases generate losses at moderate discount levels, categories like Binders remain profitable even at higher discounts.
+- Profitability is influenced by multiple factors beyond discounting, reinforcing the need for multi-dimensional analysis rather than single-variable decision-making.
 
 ## Business Recommendations
 
-- Limit discounting to ~20–22% to avoid consistent losses
-- Re-evaluate pricing and cost structure for loss-generating categories (Tables, Bookcases, Supplies)
+- Optimize discount thresholds by category, as profitability varies significantly across products despite an average break-even point around ~22%.
+- Re-evaluate pricing, cost structure, and discount strategies for loss-generating categories (Tables, Bookcases, Supplies); Tables alone generate approximately $17K–$18K in losses.
 - Maintain focus on high-performing categories such as Copiers, Phones, and Accessories
 - Investigate regional inefficiencies, particularly in the Central region
 
@@ -30,7 +33,7 @@ The goal was to move beyond revenue metrics and uncover factors that impact prof
 ### Discount vs Profit
 ![Discount vs Profit](./images/Discounts_vs_Margins.jpg)
 
-Profitability turns negative above ~22% discount.
+Profitability generally declines as discount levels increase, though the relationship is moderate and varies across product categories.
 
 ---
 
@@ -48,7 +51,7 @@ High revenue does not guarantee profitability.
 
 ## Takeaway
 
-This project demonstrates how data analysis can uncover hidden inefficiencies in pricing strategy and product performance, leading to more informed, data-driven business decisions.
+This project demonstrates how data analysis can uncover pricing inefficiencies and profitability drivers, enabling more targeted, category-specific business strategies.
 
 ## Project Structure
 
