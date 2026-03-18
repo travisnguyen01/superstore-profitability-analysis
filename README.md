@@ -58,6 +58,7 @@ This project demonstrates how data analysis can uncover pricing inefficiencies a
 - `superstore_analysis.xlsx`
   - Executive Summary
   - Discount vs Profit Analysis
+  - Average Discount Impacts on Margins
   - Regional Performance
   - Segment Analysis
   - Sub-Category Profitability
