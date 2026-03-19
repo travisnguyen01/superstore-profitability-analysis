@@ -1,7 +1,7 @@
 # Superstore Profitability Analysis
 
 ## Overview
-This project analyzes a retail dataset of ~9,000 transactions to identify key drivers of profitability across regions, product categories, and discount levels.
+This project analyzes a retail dataset of ~10,000 transactions to identify key drivers of profitability across regions, product categories, and discount levels.
 
 The goal was to move beyond revenue metrics and uncover factors that impact profit margins and business performance.
 
