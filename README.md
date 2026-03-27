@@ -25,7 +25,7 @@ The goal was to move beyond revenue metrics and uncover factors that impact prof
 ## Tools & Skills Used
 
 - **SQL** – data aggregation and analysis 
-- **Excel** – data cleaning, PivotTables, and visualization
+- **Excel** – PivotTables, and visualization
 - **Data Analysis** – profitability analysis, trend identification, and business insights
 
 ## Key Visualizations
